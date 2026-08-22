@@ -91,7 +91,7 @@ I'm Basel Hossam Al-Shaquery, a Grade 10 student at IVY STEM International Schoo
 ## Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/basel-hossam-al-shaqwery)
-- [GitHub](https://github.com/Basel-ALShaquery)
+- [GitHub](https://github.com/Basel-ALShaqwery)
 - Email: baselhossam273@gmail.com 
 
 > "Building technology that creates meaningful impact."
