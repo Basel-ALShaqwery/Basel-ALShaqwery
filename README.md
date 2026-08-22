@@ -2,7 +2,7 @@
 
 AI & Data Science Innovator | STEM Researcher | Full Stack Engineer | Student Leader
 
-I'm Basel Hossam Al-Shaquery, a Grade 10 student at IVY STEM International School in Cairo, Egypt. I am passionate about Artificial Intelligence, Machine Learning, Data Science, Robotics, and building technology that creates measurable social impact.
+I'm Basel Hossam Al-Shaquery, a Grade 11 student at IVY STEM International School in Cairo, Egypt. I am passionate about Artificial Intelligence, Machine Learning, Data Science, Robotics, and building technology that creates measurable social impact.
 
 ## Current Roles
 
