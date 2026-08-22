@@ -35,7 +35,7 @@ I'm Basel Hossam Al-Shaqwery, a Grade 11 student at IVY STEM International Schoo
 - Global Consumer Intelligence Program Participant, Matsuo-Iwasawa Lab, The University of Tokyo
 - DECI Scholar, Data Science and AI Track
 - Founder and Lead Instructor, Data Mind Club
-- Student Union President for three consecutive terms
+- Student Union President for three consecutive years
 - STEM Researcher
 
 ## Areas of Interest
