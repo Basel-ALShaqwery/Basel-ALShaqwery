@@ -132,4 +132,7 @@ I'm Basel Hossam Al-Shaqwery, a Grade 11 student at IVY STEM International Schoo
 
 Email: [baselhossam273@gmail.com](mailto:baselhossam273@gmail.com )
 
-> Building technology that creates meaningful impact.
+> “Any sufficiently advanced technology is indistinguishable from magic.”
+>
+> — Arthur C. Clarke, *Profiles of the Future*
+
