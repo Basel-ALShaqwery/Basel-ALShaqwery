@@ -56,7 +56,7 @@ I'm Basel Hossam Al-Shaquery, a Grade 10 student at IVY STEM International Schoo
 
 * MethaBot: Methane Emission Detection & Harvesting
 * BEELURE: AI-Driven Smart Pollination System
-* - [Bus Operations Machine Learning Project](https://github.com/Basel-ALShaqwery/bus-operations-machine-learning-project ) — DECI Data Science and AI Level 4 Graduation Project
+* [Bus Operations Machine Learning Project](https://github.com/Basel-ALShaqwery/bus-operations-machine-learning-project ) — DECI Data Science and AI Level 4 Graduation Project
 * NanoAir: Advanced Nano-Coating for Air Purification
 * Well Mind: Mental Health Awareness Platform
 * Multiple Linear Regression House Price Prediction
