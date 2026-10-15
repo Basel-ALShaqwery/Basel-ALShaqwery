@@ -35,7 +35,11 @@
 
 ## About
 
-I'm a Grade 11 student at **IVY STEM International School**, Cairo, Egypt. I build intelligent systems that solve real-world problems, combining machine learning, full-stack engineering, scientific research and student leadership.
+I'm a Grade 11 student at **IVY STEM International School** in Cairo, Egypt, building intelligent systems that solve real-world problems.
+
+My work sits where machine learning, software engineering and research meet. I'm a founding-team full-stack engineer at SIA Tech, a four-year DECI scholar in Data Science and AI, and a graduate of the University of Tokyo's GCI World program. I've led teams in robotics, climate technology and mental health, and published independent research on youth mental health.
+
+What drives me is impact. I don't want to build projects that end once they're finished; I want to build things that help people and contribute to real change. My long-term goal is to specialize in **AI for robotics**, connecting intelligent software with real-world machines.
 
 **Interests:** AI Engineering · Machine Learning · Computer Vision · Robotics · Embodied AI · Sustainability
 
