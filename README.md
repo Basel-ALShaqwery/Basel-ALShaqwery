@@ -35,11 +35,13 @@
 
 ## About
 
-I'm a Grade 11 student at **IVY STEM International School** in Cairo, Egypt, building intelligent systems that solve real-world problems.
+I'm Basel, a Grade 11 student from Cairo, Egypt, and I'm completely fascinated by what technology can do.
 
-My work sits where machine learning, software engineering and research meet. I'm a founding-team full-stack engineer at SIA Tech, a four-year DECI scholar in Data Science and AI, and a graduate of the University of Tokyo's GCI World program. I've led teams in robotics, climate technology and mental health, and published independent research on youth mental health.
+It started with curiosity: how does a machine learn to recognize a face, predict a delay, or follow a line at full speed? Every time I found an answer, it opened three more questions, and I haven't stopped asking since. That's what I love most about AI and robotics. There's always something new to understand and something new to build.
 
-What drives me is impact. I don't want to build projects that end once they're finished; I want to build things that help people and contribute to real change. My long-term goal is to specialize in **AI for robotics**, connecting intelligent software with real-world machines.
+I learn by building. I'd rather make something that works, even if it's imperfect, than only read about it. And I care about what the work does for people. A project means more to me when it solves a real problem, helps someone, or pushes things in a better direction.
+
+Right now I'm going deeper into machine learning, computer vision and robotics. My goal is to specialize in **AI for robotics**, where intelligent software meets the physical world.
 
 **Interests:** AI Engineering · Machine Learning · Computer Vision · Robotics · Embodied AI · Sustainability
 
