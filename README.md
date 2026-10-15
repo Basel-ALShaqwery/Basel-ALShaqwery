@@ -1,9 +1,12 @@
 
 <!-- ===================== PROFILE HEADER ===================== -->
 
+
 <div align="center">
 
-# Hi, I'm Basel Hossam AL-Shaqwery 👋
+<a href="https://github.com/Basel-ALShaqwery">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Basel+Hossam+AL-Shaqwery;AI+%26+Data+Science+Student;Full+Stack+Engineer;Machine+Learning+%7C+Robotics+%7C+STEM;Building+AI+for+Real-World+Impact" alt="Typing SVG" />
+</a>
 
 ### AI & Data Science Student | Full Stack Engineer | STEM Researcher
 
@@ -17,6 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Basel-ALShaqwery&label=Profile%20Views&color=2F81F7&style=flat)
 
 </div>
+
 
 ---
 
